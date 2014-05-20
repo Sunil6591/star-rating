@@ -21,7 +21,7 @@ module.exports = function(grunt) {
         },
         'replace': {
             example: {
-                src: ['src/*'],
+                src: ['src/**/*.html'],
                 dest: 'dist/',
                 replacements: [{
                     from: 'bower_components',
