@@ -4,7 +4,7 @@ Web Component for generate a star rating using Polymer.
 
 ## Demo
 
-> [Check it live](http://manoelneto.github.io/star-rating/demo.html).
+> [Check it live](http://manoelneto.github.io/star-rating/).
 
 ## Usage
 
