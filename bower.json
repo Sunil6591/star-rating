@@ -1,7 +1,6 @@
 {
-    "name": "my-repo",
-    "version": "0.0.0",
-    "description": "My awesome Custom Element",
+    "name": "polymer-star-rating",
+    "description": "Polymer star rating web component.",
     "license": "MIT",
     "main": "dist/my-element.html",
     "keywords": [
@@ -14,6 +13,6 @@
         "bower_components"
     ],
     "dependencies": {
-        "polymer": "Polymer/polymer#~0.2.4"
+        "polymer": "Polymer/polymer#master"
     }
 }
