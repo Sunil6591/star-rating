@@ -7,9 +7,8 @@
     "grunt-gh-pages": "~0.9.1",
     "grunt-text-replace": "~0.3.11"
   },
-  "name": "star-rating",
+  "name": "polymer-star-rating",
   "description": "Web Component for generate a star rating using Polymer.",
-  "version": "0.0.1",
   "main": "Gruntfile.js",
   "dependencies": {
     "grunt-cli": "~0.1.13",
